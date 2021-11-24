@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @DevAtIosGitHub
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-DevAtIosGitHub/DevAtIosGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, My name is Yousuf Ahmed Ali.
+- My user name is @DevAtIosGitHub.
+- You can just call me IosDev
+- I'd like to create free apps and games to let everyone get their app or game that the exactly like!
+- You can contact me at sciencemachine2012@gmail.com to give your ideas!
+- I'm gonna try to add my projects to all devices, but im not sure I can,  so hope I can!
+- 
+.
